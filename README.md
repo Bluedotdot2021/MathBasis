@@ -3,6 +3,7 @@
 
 ## 项目介绍
 抱歉，请大家直接点击PDF版
+https://github.com/Bluedotdot2021/MathBasis/blob/master/淡蓝小点技术系列：面向机器学习（深度学习、人工智能）的数学基础.pdf
 
 ## 谁是淡蓝小点
 淡蓝小点是PRML Page-by-page项目的发起人，这是一个旨在帮助机器学习从业人员读懂PRML每一页的项目，它包括约80小时的视频和一本1000页的note，可通过下面链接找到相关视频。若想要note请加微信索取。
